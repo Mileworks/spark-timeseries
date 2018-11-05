@@ -1,3 +1,10 @@
+#相关文档整理#
+https://www.jianshu.com/p/c14e27ac2918  
+https://36kr.com/p/5067723.html  
+https://www.slideshare.net/SparkSummit/time-series-analytics-with-spark-spark-summit-east-talk-by-simon-ouellette  
+https://blog.csdn.net/qq_30232405/article/details/70622400  
+
+
 [![Build Status](https://travis-ci.org/sryza/spark-timeseries.svg)](https://travis-ci.org/sryza/spark-timeseries)
 
 Time Series for Spark (The `spark-ts` Package)
